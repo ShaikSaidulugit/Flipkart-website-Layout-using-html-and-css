@@ -1,0 +1,109 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar-brand img{
+    width: 200px;
+    mix-blend-mode: multiply;
+    
+}
+.d-flex{
+    height: 50px;
+    width: 50%;
+}
+.navbar{
+    max-height: 50px;
+    padding: 0px 40px;
+}
+#snup{
+    padding: 20px 0px 10px 0px;
+    color: blue;
+}
+#snup:hover{
+    text-decoration: underline;
+}
+#dropdown-menu i{
+    padding-right: 20px;
+}
+#login:hover{
+background-color: rgb(211, 211, 233);
+border: 1px solid blue;
+border-radius: 5px;
+}
+.fa-cart-plus{
+    padding-left: 20px;
+}
+.container{
+    padding: 20px 0px;
+}
+
+#first{
+    font-size: larger;
+    
+}
+.cart:hover{
+    background-color: rgb(211, 211, 233);
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+.cart1{
+    margin-top: 10px;
+    margin-left: 6px;
+}
+#secondmain{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+ 
+}
+#secondmain img{
+    height: 100px;
+    cursor: pointer;  
+}
+#thirdmain img{
+    width: 100%;
+    padding-top: 30px;
+}
+#fourthmain img{
+    height: 200px;    
+    
+}
+#fourthmain{
+    text-align: center;
+    padding-top: 30px;
+}
+#phone1{
+    border: 1px solid black;
+}
+#sixthmain{
+    padding-top: 20px;
+}
+#seventhmain{
+    padding: 20px;
+    
+}
+#seventhmain img{
+    min-height: 200px;
+    
+}
+#sr1{
+    height: 200px;
+}
+
+#footer{
+    padding-top: 30px;
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+}
+#footer ul{
+    list-style-type: none;
+}
+#footer ul li{
+    transition: all 0.4s;
+}
+#footer ul li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
